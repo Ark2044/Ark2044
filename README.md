@@ -84,6 +84,11 @@ To leverage cutting-edge technologies to create impactful solutions that drive e
   <img src="https://github-profile-trophy.vercel.app/?username=Ark2044&theme=dracula&margin-w=15&margin-h=15" alt="GitHub Trophies" />
 </p>
 
+## 🏅 Holopin Badges
+
+[![Holopin Badge](https://holopin.me/ark2044)](https://holopin.io/@ark2044)
+
+
 ## 🌐 Connect with Me
 <p align="center">
   <a href="https://www.linkedin.com/in/aarush-wasnik-016120248/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin" alt="LinkedIn"></a>
