@@ -68,14 +68,86 @@
 ## 🎯 Featured Projects
 
 <div align="center">
-<a href="https://github.com/Ark2044/food-ordering-app">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ark2044&repo=food-ordering-app&theme=tokyonight" />
-</a>
-<a href="https://github.com/Ark2044/Dino-vs-Dragon-Game">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ark2044&repo=Dino-vs-Dragon-Game&theme=tokyonight" />
-</a>
+  <table>
+    <tr>
+      <td width="50%" align="center">
+        <h3>🍕 Pizza Ordering Website</h3>
+        <a href="https://github.com/Ark2044/food-ordering-app">
+<!--           <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDM0OTIyZDM4ZWE2ZmE2MGZmY2QxYjczNzFjM2NhNzE2MWJhZTZiNyZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/8qrrHSsrK9pNh2ksSJ/giphy.gif" width="300px" alt="project-preview"/> -->
+        </a>
+        <p>
+          <a href="https://github.com/Ark2044/food-ordering-app" target="_blank">
+            <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github"/>
+          </a>
+          <a href="YOUR_LIVE_DEMO_LINK" target="_blank">
+            <img src="https://img.shields.io/badge/Live_Demo-blue?style=for-the-badge&logo=vercel"/>
+          </a>
+        </p>
+        <p><strong>Next.js, MongoDB, Redux, Stripe</strong> - A full-stack pizza ordering platform with real-time order tracking and secure payments.</p>
+        <ul align="left">
+          <li>Implemented secure payment processing with Stripe</li>
+          <li>Built responsive UI with Tailwind CSS</li>
+          <li>Integrated real-time order tracking</li>
+        </ul>
+      </td>
+      <td width="50%" align="center">
+        <h3>🎮 Dino vs Dragon Game</h3>
+        <a href="https://github.com/Ark2044/Dino-vs-Dragon-Game">
+<!--           <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjg5NmVkNTBjOTQ0ZWNhYzA4YzBkYzM4ZWU5ODAxY2YyZDYwYmJlYiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/iKnaFts8cPC1bKYU4b/giphy.gif" width="300px" alt="project-preview"/> -->
+        </a>
+        <p>
+          <a href="https://github.com/Ark2044/Dino-vs-Dragon-Game" target="_blank">
+            <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github"/>
+          </a>
+          <a href="YOUR_LIVE_DEMO_LINK" target="_blank">
+            <img src="https://img.shields.io/badge/Live_Demo-blue?style=for-the-badge&logo=vercel"/>
+          </a>
+        </p>
+        <p><strong>HTML5, CSS3, JavaScript</strong> - An interactive web-based game with smooth animations and engaging gameplay.</p>
+        <ul align="left">
+          <li>Implemented collision detection system</li>
+          <li>Created smooth character animations</li>
+          <li>Added responsive controls</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%" align="center">
+        <h3>📝 To-Do List SPA</h3>
+        <a href="https://github.com/Ark2044/to-do-list">
+<!--           <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzQzY2NhOTJjOWVhZDFiY2JkZGY4ZWM4MmM0YjVhZjM5YjM1ZTM1MiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/W4IY7zQqyCSXwPXpvm/giphy.gif" width="300px" alt="project-preview"/> -->
+        </a>
+        <p>
+          <a href="https://github.com/Ark2044/to-do-list" target="_blank">
+            <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github"/>
+          </a>
+          <a href="YOUR_LIVE_DEMO_LINK" target="_blank">
+            <img src="https://img.shields.io/badge/Live_Demo-blue?style=for-the-badge&logo=vercel"/>
+          </a>
+        </p>
+        <p><strong>React.js, CSS3</strong> - A minimalist yet powerful task management application.</p>
+        <ul align="left">
+          <li>Implemented CRUD operations</li>
+          <li>Added local storage persistence</li>
+          <li>Built drag-and-drop functionality</li>
+        </ul>
+      </td>
+      <td width="50%" align="center">
+        <h3>🌟 More Projects Coming Soon!</h3>
+        <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzk0YmQ5YzYwZDc0Y2JkZDQ5ZjhhZjYxZWY1NzdmZjIwZTJlMjI2YiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/hpXdHPfFI5wTABdDx9/giphy.gif" width="300px" alt="coming-soon"/>
+        <p>
+          <strong>Always working on something new! Check back later for more exciting projects.</strong>
+        </p>
+        <br>
+        <p>
+          <a href="https://github.com/Ark2044?tab=repositories" target="_blank">
+            <img src="https://img.shields.io/badge/View_All_Projects-blue?style=for-the-badge&logo=github"/>
+          </a>
+        </p>
+      </td>
+    </tr>
+  </table>
 </div>
-
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -97,19 +169,23 @@
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ark2044&custom_title=Aarush's%20GitHub%20Activity%20Graph&bg_color=1a1b27&color=2D9EF8&line=628FDA&point=35BAA6&area=true&hide_border=true" alt="Aarush's Github Activity Graph" />
 
-## 🎓 Experience
+## 🎓 Position of Responsibility
 
 - 🌐 **Senior Webmaster** at NSS CRCE
-  - Updated website activities & maintained content flow
-  - Optimized performance & implemented new features
+  - Enhanced website performance by 20%, increasing traffic by 15%.
+  - Implemented a QR code-based attendance system, reducing manual entry time by 75%.
+  - Developed a volunteer hour tracking system with real-time access for 100+ users.
 
-- 🤖 **Junior Team Member** at Robocon Fr. CRCE
-  - Developed & debugged robot code (2100+ lines)
-  - Troubleshot electrical components
+
+- 🤖 **Junior Software Developer** at Robocon Fr. CRCE
+  - Optimized robot control programs, enhancing responsiveness and operational efficiency by 15%.
+  - Collaborated closely with mechanical and electrical teams, ensuring cohesive system operation and reducing errors by 20%.
+  - Facilitated testing and debugging phases, enhancing stability and reducing bugs by 35% before competition deployment.
+
 
 ## 🌟 Goals for 2024
 
-- 🎯 Master Cloud Computing platforms (AWS/Azure)
+- 🎯 Master Cloud Computing platforms (AWS)
 - 🤝 Contribute to major Open Source AI projects
 - 📚 Learn System Design patterns
 - 🚀 Build and launch a SaaS product
@@ -117,7 +193,7 @@
 ## 🌐 Let's Connect!
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/aarush-wasnik-016120248/">
+  <a href="https://www.linkedin.com/in/aarush-wasnik/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:wasnikaarush@gmail.com">
